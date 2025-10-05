@@ -2,9 +2,9 @@
 
 ## [Koncepční checklist]()
 
-1.        **Uchování kontextu** – navrhnout long‑term paměť (kolekce kvízů, preferencí, předchozích dotazů) a způsob jejího vyhledávání.
+1.       **Uchování kontextu** – navrhnout long‑term paměť (kolekce kvízů, preferencí, předchozích dotazů) a způsob jejího vyhledávání.
 
-2.        **Dynamické scénáře** – navázat předpřipravené kariérní scénáře a obecné dotazy na datové zdroje a rozhodovací logiku.
+2. **Dynamické scénáře** – navázat předpřipravené kariérní scénáře a obecné dotazy na datové zdroje a rozhodovací logiku.
 
 3.        **Zdroje dat** – stanovit prioritní pořadí (interní DB, RAG/knowledge base, web search) a řešit aktualizaci a citování zdrojů.
 
